@@ -21,7 +21,7 @@ const Projects = () => {
       description: 'A creative portfolio website with smooth animations and responsive design for a photographer.',
       technologies: ['React.js','CSS'],
       liveLink: 'https://example.com',
-      githubLink: 'https://github.com'
+      githubLink: 'https://github.com/venkadesh1852/Vineshportfolio'
     },
     {
       id: 2,
@@ -61,7 +61,7 @@ const Projects = () => {
       description: 'A mobile and DTH recharge application with user-friendly interface and secure payment options.',
       technologies: ['React.js','CSS','Booststrap'],
       liveLink: 'https://example.com',
-      githubLink: 'https://github.com'
+      githubLink: 'https://github.com/venkadesh1852/FinnpaysRechargeApp'
     },
     {
       id: 6,
@@ -71,7 +71,7 @@ const Projects = () => {
       description: 'The food delivery app is designed with a user-centric UI/UX approach to ensure a seamless, intuitive, and enjoyable food ordering experience. The interface features a clean and modern layout, prioritizing ease of navigation with clear categories, prominent search functionality, and smart filters.',
       technologies: ['Figma', 'Adobe XD', 'Sketch','Canva'],
       liveLink: 'https://example.com',
-      githubLink: 'https://github.com'
+      githubLink: 'https://www.figma.com/proto/tXrO3MtufCefEvYXrdUnEI/Untitled?node-id=2001-401&p=f&t=q4GegVidTZUlu1Iz-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1'
     }
   ];
 
